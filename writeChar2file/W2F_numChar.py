@@ -14,3 +14,5 @@ print(generate_random_str(randomlength=62))  #randomlength最大取值为26*2+10
 
 print(string.digits)
 print(string.ascii_letters)
+print(string.digits)
+print(string.ascii_letters)
